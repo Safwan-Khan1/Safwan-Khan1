@@ -6,11 +6,10 @@ Welcome to my GitHub profile! I'm a **Computer Science student** from **Banglade
 
 ## 🚀 About Me
 
-- 🌍 Based in: **KK13, Bangladesh**
+- 🌍 Based in: **Bangladesh**
 - 🎓 Currently pursuing: **BSc in Computer Science**
 - 🌟 Interests: Programming, Computers, and Software Development
 - 🏸 Hobbies: Swimming, Driving, and Playing Badminton
-- 🛍️ Entrepreneur: Selling **original imported sneakers** from brands like Nike, Adidas, and Puma on [my Facebook page](#) (link to your page).
 
 ---
 
@@ -26,8 +25,8 @@ Welcome to my GitHub profile! I'm a **Computer Science student** from **Banglade
 
 ## 📈 GitHub Stats
 
-![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safwan-Khan1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Safwan-Khan1&layout=compact&theme=radical)
 
 ---
 
