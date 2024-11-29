@@ -15,10 +15,9 @@ Welcome to my GitHub profile! I'm a **Computer Science student** from **Banglade
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** C, C++, Python, JavaScript  
-- **Web Development:** HTML, CSS, React.js, Node.js  
+- **Languages:** Java 
 - **Tools & Platforms:** Git, GitHub, VS Code, Docker  
-- **Database Management:** MySQL, MongoDB  
+- **Database Management:** MySQL  
 - **Other Interests:** AI, Machine Learning, and Mobile App Development  
 
 ---
